@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 0;
+  background-color: #e4e9ee;
+}
+
+.card {
+  display: flex;
+  max-width: 650px;
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+#card1 {
+  margin-top: 40px;
+}
+
+#card4 {
+  margin-bottom: 40px;
+}
+
+#ptitulo {
+  margin-top: -32px;
+  margin-left: 570px;
+  margin-bottom: 10px;
+}
+
+h5 {
+  margin-top: 10px;
+}
